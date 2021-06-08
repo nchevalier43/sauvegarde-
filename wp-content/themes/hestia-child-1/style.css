@@ -1,0 +1,32 @@
+/*
+Theme Name: Hestia Child
+Theme URI: https://wp-themes.com/hestia
+Author: ChildThemeWP.com
+Author URI: https://childthemewp.com
+Description: My WordPress Hestia child theme.
+Template: hestia
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0.0
+Text Domain: hestia-child
+*/
+
+
+.carousel h1.hestia-title {
+	font-family: Archive Regular;
+}
+
+.page-header {
+	margin-top: 0px !important;
+}
+
+.navbar.navbar-transparent{
+	background-color: white;
+}
+
+.navbar.navbar-transparent {
+    color: #555;
+
+.iframe {
+	position: Right !important;
+}
